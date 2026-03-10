@@ -1,0 +1,16 @@
+.container {
+    border: 8px solid #ccc;
+    padding: 20px;
+    background-color: rgb(155, 146, 135);
+}
+
+body {
+    background-image: url("https://i.pinimg.com/736x/bb/02/21/bb022133bdc7fcbea9b48e12a33d8160.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6fa;
+    color: #000000;
+}
